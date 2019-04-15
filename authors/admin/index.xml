@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Jordan B. Kinder</title>
+    <link>https://jbkinder.github.io/authors/admin/</link>
+    <description>Recent content in admin on Jordan B. Kinder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Jordan B. Kinder</copyright>
+    
+	<atom:link href="https://jbkinder.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jbkinder.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbkinder.github.io/author/admin/</guid>
+      <description>Jordan B. Kinder is a citizen of the Métis Nation of Alberta and a PhD Candidate, SSHRC Doctoral Fellow, and Instructor in the Department of English and Film Studies at the University of Alberta in Edmonton, Alberta, Canada, which is located on Treaty 6 territory. He is co-administrator of the Petrocultures listserv and an active member of the Petrocultures Research Group.
+He studies the cultural and environmental politics of energy, media, and infrastructure.</description>
+    </item>
+    
+  </channel>
+</rss>

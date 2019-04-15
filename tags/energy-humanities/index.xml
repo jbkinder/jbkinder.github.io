@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Energy Humanities on Jordan B. Kinder</title>
+    <link>https://jbkinder.github.io/tags/energy-humanities/</link>
+    <description>Recent content in Energy Humanities on Jordan B. Kinder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Jordan B. Kinder</copyright>
+    <lastBuildDate>Tue, 03 May 2016 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://jbkinder.github.io/tags/energy-humanities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>After Oil</title>
+      <link>https://jbkinder.github.io/publication/after-oil/</link>
+      <pubDate>Tue, 03 May 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://jbkinder.github.io/publication/after-oil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Coming Transition: Fossil Capital and Our Energy Future</title>
+      <link>https://jbkinder.github.io/publication/coming-transition/</link>
+      <pubDate>Tue, 03 May 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://jbkinder.github.io/publication/coming-transition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
