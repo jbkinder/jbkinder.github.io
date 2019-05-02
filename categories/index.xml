@@ -11,5 +11,14 @@
 	<atom:link href="https://jbkinder.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>reviews</title>
+      <link>https://jbkinder.github.io/categories/reviews/</link>
+      <pubDate>Wed, 01 May 2019 16:19:38 -0600</pubDate>
+      
+      <guid>https://jbkinder.github.io/categories/reviews/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

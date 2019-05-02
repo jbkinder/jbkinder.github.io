@@ -9,6 +9,12 @@
   
     <url>
     
+      <loc>https://jbkinder.github.io/post/critical-infrastructure/</loc>
+      <lastmod>2019-05-01T16:19:38-06:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://jbkinder.github.io/publication/sustaining/</loc>
       <lastmod>2019-01-01T00:00:00-07:00</lastmod>
     </url>
@@ -290,6 +296,7 @@
     <url>
     
       <loc>https://jbkinder.github.io/post/</loc>
+      <lastmod>2019-05-01T16:19:38-06:00</lastmod>
     </url>
   
     <url>
@@ -335,6 +342,48 @@
     <url>
     
       <loc>https://jbkinder.github.io/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jbkinder.github.io/tags/energy/</loc>
+      <lastmod>2019-05-01T16:19:38-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jbkinder.github.io/tags/extractive-state-apparatus/</loc>
+      <lastmod>2019-05-01T16:19:38-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jbkinder.github.io/tags/infrastructure/</loc>
+      <lastmod>2016-05-03T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jbkinder.github.io/categories/reviews/</loc>
+      <lastmod>2019-05-01T16:19:38-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jbkinder.github.io/tags/settler-colonialism/</loc>
+      <lastmod>2019-05-01T16:19:38-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jbkinder.github.io/tags/the-state/</loc>
+      <lastmod>2019-05-01T16:19:38-06:00</lastmod>
       <priority>0</priority>
     </url>
   
