@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Jordan B. Kinder</copyright>
-    <lastBuildDate>Wed, 01 May 2019 16:19:38 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 16:19:38 -0600</lastBuildDate>
     
 	<atom:link href="https://jbkinder.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Brief Tutorial for Enabling Flash in Chrome</title>
+      <link>https://jbkinder.github.io/post/flash-tutorial/</link>
+      <pubDate>Wed, 25 Mar 2020 16:19:38 -0600</pubDate>
+      
+      <guid>https://jbkinder.github.io/post/flash-tutorial/</guid>
+      <description>Prezi uses Adobe Flash Player, which is disabled by default in most web browsers. If you are having trouble enabling Adobe Flash Player in Google Chrome, see the brief instructions I&amp;rsquo;ve put together below. If you are using Safari, please follow the instructions in Adobe&amp;rsquo;s tutorial linked here. Adobe also has detailed instructions for Chrome, Safari, and Firefox here.
+If you see this screen when trying to open the remote Prezi: Flashplayer Blocked</description>
+    </item>
     
     <item>
       <title>Critical Infrastructure and The Criminalization of Indigenous Resistance</title>
