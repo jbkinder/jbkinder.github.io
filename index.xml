@@ -46,10 +46,10 @@
       <description>&lt;p&gt;&lt;em&gt;Prezi&lt;/em&gt; uses Adobe Flash Player, which is disabled by default in most web browsers. If you are having trouble enabling Adobe Flash Player in Google Chrome, see the brief instructions I&amp;rsquo;ve put together below. If you are using Safari, please follow the instructions in Adobe&amp;rsquo;s tutorial linked &lt;a href=&#34;https://helpx.adobe.com/ca/flash-player/kb/enabling-flash-player-safari.html#later-macOS-versions&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. Adobe also has detailed instructions for Chrome, Safari, and Firefox &lt;a href=&#34;https://helpx.adobe.com/flash-player/kb/video-display-firefox-safari-chrome.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;If you see this screen when trying to open the remote Prezi:
-&lt;a href=&#34;https://jbkinder.github.io/home/jordan/git/jbkinder.github.io/content/post/flash-tutorial/blocked.png&#34;&gt;Flashplayer Blocked&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;https://jbkinder.github.io/home/jordan/git/jbkinder.github.io/content/post/flash-tutorial/blocked.png&#34; alt=&#34;Flashplayer Blocked&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Click the lock symbol beside the URL bar and choose &amp;ldquo;Allow,&amp;rdquo; then reload/refresh the page:
-&lt;a href=&#34;https://jbkinder.github.io/home/jordan/git/jbkinder.github.io/content/post/flash-tutorial/allow.png&#34;&gt;Allow&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;https://jbkinder.github.io/home/jordan/git/jbkinder.github.io/content/post/flash-tutorial/allow.png&#34; alt=&#34;Allow&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
