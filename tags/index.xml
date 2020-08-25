@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Jordan B. Kinder</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jbkinder.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Activism</title>
+      <link>https://jbkinder.github.io/tags/activism/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbkinder.github.io/tags/activism/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alberta</title>
@@ -141,7 +150,7 @@
     <item>
       <title>Fossil Capital</title>
       <link>https://jbkinder.github.io/tags/fossil-capital/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 -0400</pubDate>
       
       <guid>https://jbkinder.github.io/tags/fossil-capital/</guid>
       <description></description>
@@ -243,6 +252,15 @@
       <pubDate>Tue, 03 May 2016 00:00:00 -0400</pubDate>
       
       <guid>https://jbkinder.github.io/tags/resistance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>https://jbkinder.github.io/tags/social-media/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbkinder.github.io/tags/social-media/</guid>
       <description></description>
     </item>
     
