@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Jordan B. Kinder</copyright>
-    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jbkinder.github.io/tags/energy-futures/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mystifying Oil Today</title>
+      <link>https://jbkinder.github.io/publication/mystifying/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://jbkinder.github.io/publication/mystifying/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>In absence of...a cool future</title>
