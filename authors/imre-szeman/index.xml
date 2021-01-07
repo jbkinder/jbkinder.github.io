@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imre Szeman on Jordan B. Kinder</title>
+    <link>https://jbkinder.github.io/authors/imre-szeman/</link>
+    <description>Recent content in Imre Szeman on Jordan B. Kinder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Jordan B. Kinder</copyright>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jbkinder.github.io/authors/imre-szeman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Literature and Energy</title>
+      <link>https://jbkinder.github.io/publication/palgrave/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbkinder.github.io/publication/palgrave/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

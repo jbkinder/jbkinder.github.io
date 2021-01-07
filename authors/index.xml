@@ -7,16 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Jordan B. Kinder</copyright>
+    <lastBuildDate>Sun, 10 Jan 2021 13:45:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jbkinder.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Andrew B. Ross</title>
+      <link>https://jbkinder.github.io/authors/andrew-b.-ross/</link>
+      <pubDate>Sun, 10 Jan 2021 13:45:00 -0500</pubDate>
+      
+      <guid>https://jbkinder.github.io/authors/andrew-b.-ross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imre Szeman</title>
+      <link>https://jbkinder.github.io/authors/imre-szeman/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbkinder.github.io/authors/imre-szeman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob Goessling</title>
+      <link>https://jbkinder.github.io/authors/jacob-goessling/</link>
+      <pubDate>Sun, 10 Jan 2021 13:45:00 -0500</pubDate>
+      
+      <guid>https://jbkinder.github.io/authors/jacob-goessling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jordan B. Kinder</title>
       <link>https://jbkinder.github.io/authors/jordan-b.-kinder/</link>
-      <pubDate>Wed, 25 Nov 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 10 Jan 2021 13:45:00 -0500</pubDate>
       
       <guid>https://jbkinder.github.io/authors/jordan-b.-kinder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katherine Hummel</title>
+      <link>https://jbkinder.github.io/authors/katherine-hummel/</link>
+      <pubDate>Sun, 10 Jan 2021 13:45:00 -0500</pubDate>
+      
+      <guid>https://jbkinder.github.io/authors/katherine-hummel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyle McAuley</title>
+      <link>https://jbkinder.github.io/authors/kyle-mcauley/</link>
+      <pubDate>Sun, 10 Jan 2021 13:45:00 -0500</pubDate>
+      
+      <guid>https://jbkinder.github.io/authors/kyle-mcauley/</guid>
       <description></description>
     </item>
     
@@ -35,6 +81,15 @@
       <pubDate>Tue, 03 May 2016 00:00:00 -0400</pubDate>
       
       <guid>https://jbkinder.github.io/authors/petrocultures-research-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reuben Martens</title>
+      <link>https://jbkinder.github.io/authors/reuben-martens/</link>
+      <pubDate>Sun, 10 Jan 2021 13:45:00 -0500</pubDate>
+      
+      <guid>https://jbkinder.github.io/authors/reuben-martens/</guid>
       <description></description>
     </item>
     
