@@ -7,8 +7,35 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Jordan B. Kinder</copyright>
-    <lastBuildDate>Sun, 10 Jan 2021 13:45:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 06 Oct 2021 13:30:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>(Non-)Reciprocities: Relations of and Against Extraction</title>
+      <link>https://jbkinder.github.io/talk/4s/</link>
+      <pubDate>Wed, 06 Oct 2021 13:30:00 -0400</pubDate>
+      
+      <guid>https://jbkinder.github.io/talk/4s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence/Y: Energy Humanities Stream</title>
+      <link>https://jbkinder.github.io/talk/asle2021/</link>
+      <pubDate>Mon, 26 Jul 2021 13:30:00 -0400</pubDate>
+      
+      <guid>https://jbkinder.github.io/talk/asle2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaming Extractivism: Indigenous Resurgence, Unjust Infrastructures, and the Politics of Play in Elizabeth LaPensée’s Thunderbird Strike</title>
+      <link>https://jbkinder.github.io/publication/thunderbird/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbkinder.github.io/publication/thunderbird/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Structures of Legibility: Emerging Approaches to Energy and Infrastructure</title>
@@ -115,70 +142,6 @@
       <pubDate>Wed, 26 Jun 2019 13:30:00 -0400</pubDate>
       
       <guid>https://jbkinder.github.io/talk/asle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Critical Infrastructure and The Criminalization of Indigenous Resistance</title>
-      <link>https://jbkinder.github.io/post/critical-infrastructure/</link>
-      <pubDate>Wed, 01 May 2019 16:19:38 -0600</pubDate>
-      
-      <guid>https://jbkinder.github.io/post/critical-infrastructure/</guid>
-      <description>&lt;p&gt;I read Andrew Crosby and Jeffrey Monaghan&amp;rsquo;s &lt;a href=&#34;https://fernwoodpublishing.ca/book/policing-indigenous-movements&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Policing Indigenous Movements: Dissent and the Security State&lt;/em&gt;&lt;/a&gt; at the same time that I was teaching about the relationship between infrastructural development, settler colonialism, and what Leanne Betasamosake Simpson and others name &amp;ldquo;Indigenous resurgence&amp;rdquo;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; in an undergraduate research course on energy, culture, and environment. What initially struck me about Crosby and Monaghan&amp;rsquo;s account was the ease in which it ties together mutually informing problems of the legacies of settler colonialism, the rise of the surveillance state, extractivism as a dominant modality, and more. I was also appreciative of the way it does so with extremely well-documented primary research, compiled from &amp;ldquo;thousands of declassified documents from dozens of government departments and hundres of Access to Information Act (ATIA) requests&amp;rdquo; (4).&lt;/p&gt;
-
-&lt;p&gt;What Crosby and Monaghan find in their analysis is the mobilization of the notion of &amp;ldquo;critical infrastructure&amp;rdquo; as a means to justify increased policing presence and surveillance power in relation to &lt;em&gt;privately owned&lt;/em&gt; extractivist infrastructures, a kind of policing tied to what the authors call &amp;ldquo;the security state&amp;rdquo;, which has been leveraged to criminalize Indigenous resistance across Canada &lt;em&gt;writ large&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Critical Infrastructure&amp;rdquo; is a generic term used by the Government of Canada to refer to &amp;ldquo;processes, systems, facilities, technologies, networks, assets and services essential to the health, safety, security or economic well-being of Canadians and the effective functioning of government.&amp;rdquo;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; I first came across the phrase when doing dissertation research and stumbling onto a leaked RCMP &amp;ldquo;Critical Infrastructure Assessment&amp;rdquo; entitled &amp;ldquo;Criminal Threats to the Petroleum Industry.&amp;rdquo; Carol Linnitt makes an important observation in the article for &lt;em&gt;The Narwhal&lt;/em&gt; that leaked the report: &amp;ldquo;In recent years, discussion of Canada’s critical infrastructure (CI) has shifted from a focus on digital and electricity networks to energy-related infrastructure.&amp;rdquo;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; The key findings of the assessment include:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;There is a growing, highly organized and well-financed, anti-Canadian petroleum movement, that consists of peaceful activists, militants, and violent extremists, who are opposed to society&amp;rsquo;s reliance on fossil fuels&amp;rdquo;;&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Violent anti-petroleum extremists will continue to engage in criminal activity to promote their anti-petroleum ideology&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Later on under a sub-heading entitled &amp;ldquo;Aboriginal Opposition,&amp;rdquo; the report focuses on &amp;ldquo;aboriginal extremists&amp;rdquo; who &amp;ldquo;are using the Internet to recruit and incite violence.&amp;rdquo; As Crosby and Monaghan make clear, a report such as this reveals not only the active criminalization of Indigenous peoples by associating movements of self-determination with those of &amp;ldquo;extremism&amp;rdquo;, but also an intimate relationship between governments, policing apparatuses, and corporate entities. &amp;ldquo;Given that 90 percent of what is considered critical infrastructure (pipelines, nuclear stations, hydro dams, airports, etc.) is owned by private corporations,&amp;rdquo; they write &amp;ldquo;our research shows how these corporations have become more than merely stakeholders&amp;#151;they are active policing partners&amp;rdquo; (18). The result of this partnership is a kind of &amp;ldquo;perpetual surveillance&amp;rdquo; performed in order maintain extractive resource economies.&lt;/p&gt;
-
-&lt;p&gt;In the language of Louis Althusser, Crosby and Monaghan&amp;rsquo;s &lt;em&gt;Policing Indigenous Movements&lt;/em&gt; maps and interrogates the ways in which the Canadian Repressive State Apparatuses (RSAs) maintain and reproduce dominant infrastructural relations. Given that these infrastructural relations are deeply tied to the  colonial enterprise of Canada, this process is simultaneously one that maintains and reproduces settler colonial relations as well. Although Crosby and Monaghan are concerned with the contemporary policing of Indigenous movements and peoples, focusing, for instance, on surveillance surrounding the Northern Gateway Pipelines and the Idle No More movement, tying the book&amp;rsquo;s broader conclusions to work from thinkers such as Deborah Cowen historicizes their observations to underscore the larger bounded legacy of infrastructural development and settler colonialism in Canada.&lt;/p&gt;
-
-&lt;p&gt;In &amp;ldquo;The Jurisdiction of Infrastructure: Circulation and Canadian Settler Colonialism,&amp;rdquo;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; Cowen approaches the question of infrastructural development in Canada through questions of jurisdiction. She argues that &amp;ldquo;jurisdiction is actualized through material infrastructures.&amp;rdquo; &amp;ldquo;In other words,&amp;rdquo; she writes, &amp;ldquo;historically and in the present, the construction [of] railroads and pipelines relied upon the settler states&amp;rsquo; claims to jurisdiction, but that jurisdiction is also materialized through infrastructure.&amp;rdquo; What Cowen sheds light on here are the ways in which infrastructural projects in the &lt;em&gt;longue durée&lt;/em&gt; of Canada&amp;rsquo;s settler colonial expansion have &lt;em&gt;always&lt;/em&gt; been part of a self-fulfilling, legitimating act for Canada&amp;rsquo;s claim over land that actively undermines Indigenous jurisdiction in the process. As Crosby and Monaghan show, this undermining is in part achieved through criminalization as a justification for increased surveillance that, ultimately, serves not only to protect corporate interests, but, &lt;em&gt;pace&lt;/em&gt; Cowen, &lt;em&gt;the entire settler colonial project&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Putting Cowen into conversation with Crosby and Monaghan&amp;rsquo;s &lt;em&gt;Policing Indigenous Movements&lt;/em&gt; in this way helps address some preliminary interests of mine as part of a research project that I&amp;rsquo;ll be working on in the future. This project explores two competing energetic and infrastructural imaginaries in Canada: imaginaries of foreclosure committed to fossil fuels now and in the future, and imaginaries of possibility committed to developing post-extractive, decolonial relations. To map these imaginaries, I will be looking at media and cultural production that shape them. As part of the broader methodological framing of this project, I&amp;rsquo;ve been trying to think through what I&amp;rsquo;m calling the Canadian &amp;ldquo;extractive state apparatus,&amp;rdquo; a persistent formation that operates both repressively and ideologically to maintain and reproduce &amp;ldquo;colonial capitalism.&amp;rdquo;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;See &lt;a href=&#34;https://www.upress.umn.edu/book-division/books/as-we-have-always-done&#34; target=&#34;_blank&#34;&gt;Leanne Betasamosake Simpson, &lt;em&gt;As We Have Always Done: Indigenous Freedom Through Radical Resistance&lt;/em&gt;, University of Minnesota Press, 2017.&lt;/a&gt;
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;&lt;a href=&#34;https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/srtg-crtcl-nfrstrctr-eng.pdf&#34; target=&#34;_blank&#34;&gt;Government of Canada, &lt;em&gt;National Strategy for Critical Infrastructure&lt;/em&gt;, 2009.&lt;/a&gt;
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34;&gt;&lt;a href=&#34;https://thenarwhal.ca/leaked-internal-rcmp-document-names-anti-petroleum-extremists-threat-government-industry/&#34; target=&#34;_blank&#34;&gt;Carol Linnitt, &amp;ldquo;LEAKED: Internal RCMP Document Names “Violent Anti-Petroleum Extremists” Threat to Government and Industry,&amp;rdquo; &lt;em&gt;The Narwhal&lt;/em&gt;, 17 Feb. 2015.&lt;/a&gt;
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:4&#34;&gt;&lt;a href=&#34;https://thefunambulist.net/articles/jurisdiction-infrastructure-circulation-canadian-settler-colonialism-deborah-cowen&#34; target=&#34;_blank&#34;&gt;Deborah Cowen, &amp;ldquo;The Jurisdiction of Infrastructure: Circulation and Canadian Settler Colonialism,&amp;rdquo; &lt;em&gt;The Funamublist&lt;/em&gt;, vol. 17, May-June 2018.&lt;/a&gt;
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:5&#34;&gt;On &amp;ldquo;colonial capitalism,&amp;rdquo; see &lt;a href=&#34;https://www.dukeupress.edu/the-extractive-zone&#34; target=&#34;_blank&#34;&gt;Macarena Gómez-Barris, &lt;em&gt;The Extractive Zone: Social Ecologies and Decolonial Perspectives&lt;/em&gt;, Duke University Press, 2017.&lt;/a&gt; and &lt;a href=&#34;https://global.oup.com/academic/product/colonial-capitalism-and-the-dilemmas-of-liberalism-9780190637293?cc=ca&amp;amp;lang=en&amp;amp;&#34; target=&#34;_blank&#34;&gt;Onur Ulas Ince, &lt;em&gt;Colonial Capitalism and the Dilemmas of Liberalism&lt;/em&gt;, Oxford University Press, 2018.&lt;/a&gt;
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sustaining Petrocultures: On the Politics and Aesthetics of Oil Sands Reclamation</title>
-      <link>https://jbkinder.github.io/publication/sustaining/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://jbkinder.github.io/publication/sustaining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Engels</title>
-      <link>https://jbkinder.github.io/publication/engels/</link>
-      <pubDate>Sat, 03 Nov 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbkinder.github.io/publication/engels/</guid>
       <description></description>
     </item>
     
