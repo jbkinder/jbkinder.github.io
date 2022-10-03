@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Jordan B. Kinder</copyright>
-    <lastBuildDate>Sun, 10 Jan 2021 13:45:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 May 2022 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jbkinder.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>After Oil Collective</title>
+      <link>https://jbkinder.github.io/authors/after-oil-collective/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbkinder.github.io/authors/after-oil-collective/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Andrew B. Ross</title>
@@ -18,6 +27,24 @@
       <pubDate>Sun, 10 Jan 2021 13:45:00 -0500</pubDate>
       
       <guid>https://jbkinder.github.io/authors/andrew-b.-ross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ayesha Vemuri</title>
+      <link>https://jbkinder.github.io/authors/ayesha-vemuri/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbkinder.github.io/authors/ayesha-vemuri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darin Barney</title>
+      <link>https://jbkinder.github.io/authors/darin-barney/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbkinder.github.io/authors/darin-barney/</guid>
       <description></description>
     </item>
     
@@ -42,7 +69,7 @@
     <item>
       <title>Jordan B. Kinder</title>
       <link>https://jbkinder.github.io/authors/jordan-b.-kinder/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 10 Nov 2022 00:30:00 -0500</pubDate>
       
       <guid>https://jbkinder.github.io/authors/jordan-b.-kinder/</guid>
       <description></description>

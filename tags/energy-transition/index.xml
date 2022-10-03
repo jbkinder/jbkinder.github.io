@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Jordan B. Kinder</copyright>
-    <lastBuildDate>Tue, 03 May 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 03 May 2022 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jbkinder.github.io/tags/energy-transition/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Solarities: Seeking Energy Justice</title>
+      <link>https://jbkinder.github.io/publication/solarities/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbkinder.github.io/publication/solarities/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>After Oil</title>
