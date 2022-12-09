@@ -7,8 +7,17 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Jordan B. Kinder</copyright>
-    <lastBuildDate>Thu, 10 Nov 2022 00:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2022 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tailings, Unconventional: Sedimented Horizons for More Equitable Energy Futures</title>
+      <link>https://jbkinder.github.io/publication/tailings/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://jbkinder.github.io/publication/tailings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unearthing Energy Imaginaries between the Energy Unconscious and Energy Consciousness: Notes from Alberta, Canada’s Oil Sands</title>
@@ -16,6 +25,15 @@
       <pubDate>Thu, 10 Nov 2022 00:30:00 -0500</pubDate>
       
       <guid>https://jbkinder.github.io/talk/durham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whose Sands? A Review of Ducks: Two Years in the Oil Sands written and drawn by Kate Beaton</title>
+      <link>https://jbkinder.github.io/publication/ducks/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbkinder.github.io/publication/ducks/</guid>
       <description></description>
     </item>
     
@@ -29,7 +47,7 @@
     </item>
     
     <item>
-      <title>Settler Infrastructuralism: A Review of Rafico Ruiz&#39;s *Slow Disturbance*</title>
+      <title>Settler Infrastructuralism: A Review of Rafico Ruiz&#39;s Slow Disturbance</title>
       <link>https://jbkinder.github.io/publication/settler-infrastructuralism/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 -0400</pubDate>
       
@@ -124,24 +142,6 @@
       <pubDate>Sun, 10 Jan 2021 13:45:00 -0500</pubDate>
       
       <guid>https://jbkinder.github.io/talk/mla2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solar Infrastructure as Media of Resistance, or, Indigenous Solarities against Settler Colonialism</title>
-      <link>https://jbkinder.github.io/publication/saq/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 -0500</pubDate>
-      
-      <guid>https://jbkinder.github.io/publication/saq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mystifying Oil Today</title>
-      <link>https://jbkinder.github.io/publication/mystifying/</link>
-      <pubDate>Wed, 25 Nov 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://jbkinder.github.io/publication/mystifying/</guid>
       <description></description>
     </item>
     
