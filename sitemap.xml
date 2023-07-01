@@ -3,6 +3,24 @@
   
     <url>
     
+      <loc>https://jbkinder.github.io/talk/asle2023/</loc>
+      <lastmod>2023-07-12T10:30:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://jbkinder.github.io/talk/dresden/</loc>
+      <lastmod>2023-05-27T18:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://jbkinder.github.io/talk/solarcollective/</loc>
+      <lastmod>2023-05-11T15:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://jbkinder.github.io/publication/tailings/</loc>
       <lastmod>2022-12-05T00:00:00-05:00</lastmod>
     </url>
@@ -51,6 +69,12 @@
   
     <url>
     
+      <loc>https://jbkinder.github.io/publication/energetics/</loc>
+      <lastmod>2022-06-01T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://jbkinder.github.io/publication/solarities/</loc>
       <lastmod>2022-05-03T00:00:00-04:00</lastmod>
     </url>
@@ -59,6 +83,12 @@
     
       <loc>https://jbkinder.github.io/talk/scms2022/</loc>
       <lastmod>2022-03-31T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://jbkinder.github.io/publication/quebec/</loc>
+      <lastmod>2022-01-01T00:00:00-05:00</lastmod>
     </url>
   
     <url>
@@ -239,7 +269,7 @@
     <url>
     
       <loc>https://jbkinder.github.io/publication_types/3/</loc>
-      <lastmod>2022-05-03T00:00:00-04:00</lastmod>
+      <lastmod>2022-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -253,7 +283,7 @@
     <url>
     
       <loc>https://jbkinder.github.io/publication_types/6/</loc>
-      <lastmod>2020-11-01T00:00:00-04:00</lastmod>
+      <lastmod>2022-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -294,6 +324,13 @@
   
     <url>
     
+      <loc>https://jbkinder.github.io/authors/anne-pasek/</loc>
+      <lastmod>2022-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jbkinder.github.io/author/</loc>
       <priority>0</priority>
     </url>
@@ -328,7 +365,21 @@
   
     <url>
     
+      <loc>https://jbkinder.github.io/authors/bur%C3%A7-k%C3%B6stem/</loc>
+      <lastmod>2022-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jbkinder.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jbkinder.github.io/authors/cindy-kaiying-lin/</loc>
+      <lastmod>2022-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -391,7 +442,7 @@
     <url>
     
       <loc>https://jbkinder.github.io/tags/energy-humanities/</loc>
-      <lastmod>2022-05-03T00:00:00-04:00</lastmod>
+      <lastmod>2022-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -405,7 +456,7 @@
     <url>
     
       <loc>https://jbkinder.github.io/tags/energy-transition/</loc>
-      <lastmod>2022-05-03T00:00:00-04:00</lastmod>
+      <lastmod>2022-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -460,8 +511,22 @@
   
     <url>
     
+      <loc>https://jbkinder.github.io/authors/hannah-tollefson/</loc>
+      <lastmod>2022-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jbkinder.github.io/tags/history/</loc>
       <lastmod>2013-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jbkinder.github.io/tags/hydroelectricity/</loc>
+      <lastmod>2022-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -510,14 +575,14 @@
     <url>
     
       <loc>https://jbkinder.github.io/</loc>
-      <lastmod>2022-12-05T00:00:00-05:00</lastmod>
+      <lastmod>2023-07-12T10:30:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jbkinder.github.io/authors/jordan-b.-kinder/</loc>
-      <lastmod>2022-12-05T00:00:00-05:00</lastmod>
+      <lastmod>2023-07-12T10:30:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -620,7 +685,7 @@
     <url>
     
       <loc>https://jbkinder.github.io/talk/</loc>
-      <lastmod>2022-11-10T00:30:00-05:00</lastmod>
+      <lastmod>2023-07-12T10:30:00-04:00</lastmod>
     </url>
   
     <url>
@@ -674,6 +739,13 @@
   
     <url>
     
+      <loc>https://jbkinder.github.io/authors/zane-griffin-talley-cooper/</loc>
+      <lastmod>2022-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jbkinder.github.io/authors/admin/</loc>
       <priority>0</priority>
     </url>
@@ -688,21 +760,21 @@
     <url>
     
       <loc>https://jbkinder.github.io/tags/energy-imaginaries/</loc>
-      <lastmod>2022-11-10T00:30:00-05:00</lastmod>
+      <lastmod>2023-05-27T18:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jbkinder.github.io/tags/extractive-state-apparatus/</loc>
-      <lastmod>2022-11-10T00:30:00-05:00</lastmod>
+      <lastmod>2023-05-27T18:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jbkinder.github.io/tags/extractivism/</loc>
-      <lastmod>2022-11-10T00:30:00-05:00</lastmod>
+      <lastmod>2023-05-27T18:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -723,7 +795,7 @@
     <url>
     
       <loc>https://jbkinder.github.io/tags/settler-colonialism/</loc>
-      <lastmod>2022-11-10T00:30:00-05:00</lastmod>
+      <lastmod>2023-05-27T18:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
