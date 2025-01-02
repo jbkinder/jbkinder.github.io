@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Jordan B. Kinder</copyright>
-    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jbkinder.github.io/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Before the planetary thaw: Sensing permafrost infrastructure at the Mackenzie Valley Pipeline Inquiry</title>
+      <link>https://jbkinder.github.io/publication/permafrost/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbkinder.github.io/publication/permafrost/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Digital Energetics</title>
